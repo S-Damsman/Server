@@ -21,3 +21,5 @@ et ensuite on fait git merge origin/master pour fusionner les versions sur GitHu
 
 Erreur VCRUNTIME140
 https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist
+
+pour obtenir le site en local, il suffit de tapper "localhost" dans une page web
