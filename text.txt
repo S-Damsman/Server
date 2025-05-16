@@ -18,3 +18,6 @@ soit git clone si c'est la première fois
 sinon git fetch pour vérifier qu'on est a jour
 
 et ensuite on fait git merge origin/master pour fusionner les versions sur GitHub est celle sur notre ordinateur.
+
+Erreur VCRUNTIME140
+https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist
