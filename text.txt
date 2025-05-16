@@ -1,2 +1,8 @@
 Ceci est un test
 coucou j'ame la mere  a matéo
+https://www.apachelounge.com/download/#google_vignette
+https://dev.mysql.com/downloads/mysql/
+https://www.phpmyadmin.net/downloads/
+https://www.php.net/downloads.php
+https://windows.php.net/downloads/releases/
+https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist
