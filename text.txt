@@ -27,3 +27,5 @@ pour obtenir le site en local, il suffit de tapper "localhost" dans une page web
 CREATE USER 'admin'@'%' IDENTIFIED BY 'motdepasse';
 GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 FLUSH PRIVILEGES;
+
+test
